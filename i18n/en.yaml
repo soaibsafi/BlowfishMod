@@ -29,6 +29,12 @@ article:
     enable: "Enable zen mode"
     disable: "Disable zen mode"
 
+a11y:
+  disable_blur: "Disable blur"
+  disable_images: "Disable images"
+  show_link_underline: "Show link underline"
+  font_size: "Font size"
+
 author:
   byline_title: "Author"
 
@@ -48,7 +54,7 @@ footer:
 
 list:
   externalurl_title: "Link to external site"
-  no_articles: ""
+  no_articles: "There are no articles to list here yet."
 
 nav:
   scroll_to_top_title: "Scroll to top"
@@ -62,6 +68,7 @@ search:
 sharing:
   email: "Send via email"
   facebook: "Share on Facebook"
+  line: "Share on LINE"
   linkedin: "Share on LinkedIn"
   pinterest: "Pin on Pinterest"
   reddit: "Submit to Reddit"
